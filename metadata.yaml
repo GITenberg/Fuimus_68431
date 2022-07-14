@@ -1,0 +1,30 @@
+_repo: Fuimus_68431
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Tull, Ödön
+    gutenberg_agent_id: '54775'
+    url: http://www.gutenberg.org/2009/agents/54775
+creator:
+  author:
+    agent_name: Justh, Zsigmond
+    gutenberg_agent_id: '54774'
+    url: http://www.gutenberg.org/2009/agents/54774
+description: ''
+gutenberg_issued: '2022-06-30'
+identifiers:
+  gutenberg: '68431'
+language: hu
+pgterms:marc905: 20220616001935justh
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin-Társulat,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fuimus
+url: http://www.gutenberg.org/ebooks/68431
